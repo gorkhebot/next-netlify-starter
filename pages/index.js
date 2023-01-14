@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Welcome to the world of Only KK Fans!" />
         <p className="description">
-          Get started by uploading... <code>pages/index.js</code>
+          Get started by uploading... 
         </p>
       </main>
 
