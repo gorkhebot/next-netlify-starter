@@ -16,7 +16,7 @@ export default function Home() {
           Get started by uploading... 
         </p>
        <p>
-       <img> src="next-netlify-starter/public/kk.jpeg"</img>
+       <img src="/kk.jpeg" alt="King K" />
        </p>
       </main>
 
